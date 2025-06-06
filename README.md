@@ -75,7 +75,7 @@ python src/cargar_datos.py
 Para generar un análisis de portafolio completo:
 
 ```bash
-python src/analisis_portafolio.py
+python .\analisis_descriptivo.py 
 ```
 
 Para generar gráficos de tendencias:
