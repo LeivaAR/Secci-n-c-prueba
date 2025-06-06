@@ -49,33 +49,43 @@ Si ya tienes un ZIP: descomprímelo en la carpeta que prefieras.
 
 Si prefieres clonar directamente abre una terminal o PowerShell y ejecuta:
 
-1. git clone https://github.com/LeivaAR/Secci-n-c-prueba-Análisis-Financiero-Avanzado.git
+## Instalación y Ejecución Local
 
-cd Análisis-Financiero-Avanzado
-Crear y activar un entorno virtual (opcional, pero recomendado)
-Un entorno virtual te asegura que las dependencias no interfieran con otros proyectos de Python que tengas en la máquina.
- 
-2. Crear y activar un entorno virtual (opcional, pero recomendado)
-Un entorno virtual te asegura que las dependencias no interfieran con otros proyectos de Python que tengas en la máquina.
+Sigue estos pasos para preparar el proyecto en tu máquina:
 
-En Linux/macOS:
-python3 -m venv env
-source env/bin/activate
+1. **Clonar o descargar el repositorio**  
+   - Si ya tienes un ZIP:  
+     - Descomprímelo en la carpeta que prefieras.  
+   - Si prefieres clonar directamente, abre una terminal o PowerShell y ejecuta:
+     ```bash
+     git clone https://github.com/LeivaAR/Secci-n-c-prueba.git
+     cd Secci-n-c-prueba
+     ```
 
-En Windows PowerShell:
-python -m venv env
-.\env\Scripts\Activate.ps1
+2. **Crear y activar un entorno virtual** (opcional, pero recomendado)  
+   Un entorno virtual te asegura que las dependencias no interfieran con otros proyectos de Python que tengas en la máquina.
+   - **En Linux/macOS**:
+     ```bash
+     python3 -m venv env
+     source env/bin/activate
+     ```
+   - **En Windows PowerShell**:
+     ```powershell
+     python -m venv env
+     .\env\Scripts\Activate.ps1
+     ```
+   - **En Windows (CMD)**:
+     ```cmd
+     python -m venv env
+     env\Scripts\activate.bat
+     ```
+   Después de esto, verás el prefijo `(env)` en tu terminal, lo que indica que estás usando el entorno virtual.
 
-En Windows (CMD):
-python -m venv env
-env\Scripts\activate.bat
+3. **Instalar dependencias**  
+   Con el entorno (env) activo, navega a la carpeta donde quedó el proyecto (si no lo hiciste en el paso anterior) y ejecuta:
+   ```bash
+   pip install -r requirements.txt
 
-Después de esto, verá el prefijo (env) en tu terminal, lo que indica que estás usando el entorno virtual.
-
-3. Instalar dependencias
-Con el entorno activo, instala todas las librerías necesarias:
-
-pip install -r requirements.txt
 
 4. Ejecutar los scripts principales
 
