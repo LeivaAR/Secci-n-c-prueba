@@ -1,0 +1,19 @@
+2025-06-05 20:46:32,123 - INFO - [OK] Intentando cargar archivo: Dataset.xlsx
+2025-06-05 20:46:32,910 - INFO - [OK] Fechas procesadas correctamente
+2025-06-05 20:46:32,910 - INFO - [OK] Dataset cargado: 700 filas, 16 columnas
+2025-06-05 20:46:32,917 - INFO - [OK] Resumen de estructura generado
+2025-06-05 20:46:32,956 - INFO - [OK] Análisis descriptivo numérico generado
+2025-06-05 20:46:32,974 - INFO - [OK] Margen bruto calculado. Promedio: 27.90%
+2025-06-05 20:46:32,983 - INFO - [OK] Análisis por segmento completado
+2025-06-05 20:46:33,005 - INFO - [OK] Métricas calculadas para France
+2025-06-05 20:46:34,376 - INFO - [OK] Heatmap de correlación guardado en 'heatmap_correlacion.png'
+2025-06-05 20:46:34,383 - INFO - [OK] Resumen de estructura generado
+2025-06-05 20:46:34,419 - INFO - [OK] Análisis descriptivo numérico generado
+2025-06-05 20:46:34,427 - INFO - [OK] Análisis por segmento completado
+2025-06-05 20:46:34,440 - INFO - [OK] Métricas calculadas para Canada
+2025-06-05 20:46:34,453 - INFO - [OK] Métricas calculadas para France
+2025-06-05 20:46:34,466 - INFO - [OK] Métricas calculadas para Germany
+2025-06-05 20:46:34,478 - INFO - [OK] Métricas calculadas para Mexico
+2025-06-05 20:46:34,490 - INFO - [OK] Métricas calculadas para United States of America
+2025-06-05 20:46:36,190 - INFO - [OK] Heatmap de correlación guardado en 'heatmap_correlacion.png'
+2025-06-05 20:46:36,606 - INFO - [OK] Informe profesional guardado en 'Informe_Analisis_Financiero.xlsx'

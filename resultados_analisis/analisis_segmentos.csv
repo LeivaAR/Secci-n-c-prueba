@@ -1,0 +1,6 @@
+Segment,Total_Ventas,Venta_Promedio,Num_Transacciones,Beneficio_Total,Beneficio_Promedio,Margen_Promedio,Margen_Desviacion,Unidades_Vendidas,Participacion_Ventas_%,ROI_%
+Government,52504260.67,175014.2,300,11388173.17,37960.58,29.33,12.1,470673.5,44.22,27.7
+Small Business,42427918.5,424279.18,100,4143168.5,41431.68,9.67,4.28,153139.0,35.74,10.82
+Channel Partners,1800593.64,18005.94,100,1316803.14,13168.03,73.02,1.4,161263.5,1.52,272.18
+Midmarket,2381883.08,23818.83,100,660103.07,6601.03,27.67,3.81,172178.0,2.01,38.34
+Enterprise,19611694.38,196116.94,100,-614545.62,-6145.46,-3.06,5.38,168552.0,16.52,-3.04
